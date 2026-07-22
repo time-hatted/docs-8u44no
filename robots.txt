@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-7oa8kn.paperbarkculturaltours.com.au/sitemap.xml
